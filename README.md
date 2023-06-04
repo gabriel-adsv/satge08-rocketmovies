@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://gabriel-adsv.github.io/stage03-desafio-das-toupeiras/" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gabriel-adsv/stage08-rocketmovies">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://stage08-rocketmovies.vercel.app/" target="_blank">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +18,9 @@ Neste desafio, foi proposto a criação de uma aplicação para registros de fil
 <br>
 
 <p align="center">
-  <img alt="página principal do site" src="./assets/print.png" width="100%">
+  <img alt="página principal do site" src="./src/assets/print-1.jpg" width="100%">
+
+  <img alt="página principal do site" src="./src/assets/print-2.jpg" width="100%">
 
 </p>
 
@@ -26,12 +28,14 @@ Neste desafio, foi proposto a criação de uma aplicação para registros de fil
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
-- Animações com keyframes
+- JavaScript
+- React
+- Node.js
 
 ## 💻 Projeto
-Atividade feita no Stage 06 do curso Explorer da Rocketseat. Onde é feito uma página utilizando SPA.
+Atividade feita no Stage 08 do curso Explorer da Rocketseat. Onde é feito uma página de registros de filme com utilizando node.js no backend.
 
-- [Acesse o projeto finalizado, online](https://gabriel-adsv.github.io/stage03-desafio-das-toupeiras/)
+- [Acesse o projeto finalizado, online](https://github.com/gabriel-adsv/stage08-rocketmovies)
 
 ## 📧 Contato
 - gabriel.aug.dsv@gmail.com
