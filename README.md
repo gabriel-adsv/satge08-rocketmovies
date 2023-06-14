@@ -1,4 +1,4 @@
-<h1 align="center"> Stage 08 - RocketMovies</h1>
+<h1 align="center"> Stage 09 - RocketMovies</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-<strong>Projeto desenvolvido no nível 8 das aulas da trilha Explorer da Rocketseat.</strong><br>
+<strong>Projeto desenvolvido no nível 9 das aulas da trilha Explorer da Rocketseat.</strong><br>
 Neste desafio, foi proposto a criação de uma aplicação para registros de filmes em Node.js.
 </p>
 <br>
